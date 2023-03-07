@@ -1,4 +1,3 @@
-pip install telebot
 import telebot
 
 
